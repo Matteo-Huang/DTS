@@ -1,0 +1,41 @@
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\DST CLIENT.exe.config
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\DST CLIENT.exe.manifest
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\DST CLIENT.application
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\DST CLIENT.exe
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\DST CLIENT.pdb
+H:\新建文件夹 (4)\DST CLIENT\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST_CLIENT.Client.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST_CLIENT.Properties.Resources.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DTS.csproj.GenerateResource.Cache
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST CLIENT.exe.manifest
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST CLIENT.application
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST CLIENT.exe
+H:\新建文件夹 (4)\DST CLIENT\obj\x64\Debug\DST CLIENT.pdb
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DST CLIENT.exe.config
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DST CLIENT.exe.manifest
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DST CLIENT.application
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DST CLIENT.exe
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DST CLIENT.pdb
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST_CLIENT.Client.resources
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST_CLIENT.Properties.Resources.resources
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DTS.csproj.GenerateResource.Cache
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST CLIENT.exe.manifest
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST CLIENT.application
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST CLIENT.exe
+D:\VS2010\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST CLIENT.pdb
+D:\VS2010\20170828\DTS Client\DST CLIENT\bin\x64\Debug\DSTCLIENT.exe.config
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\CLIENT.exe.config
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\CLIENT.exe.manifest
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\CLIENT.application
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\CLIENT.exe
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\CLIENT.pdb
+D:\Code\20170828\DTS Client\DST CLIENT\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST_CLIENT.Client.resources
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DST_CLIENT.Properties.Resources.resources
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DTS.csproj.GenerateResource.Cache
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\CLIENT.exe.manifest
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\CLIENT.application
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\CLIENT.exe
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\CLIENT.pdb
+D:\Code\20170828\DTS Client\DST CLIENT\obj\x64\Debug\DTS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST_CLIENT.Client.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST_CLIENT.Properties.Resources.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DTS.csproj.GenerateResource.Cache
+H:\新建文件夹 (4)\DST CLIENT\bin\Debug\DST CLIENT.exe.config
+H:\新建文件夹 (4)\DST CLIENT\bin\Debug\DST CLIENT.exe.manifest
+H:\新建文件夹 (4)\DST CLIENT\bin\Debug\DST CLIENT.application
+H:\新建文件夹 (4)\DST CLIENT\bin\Debug\DST CLIENT.exe
+H:\新建文件夹 (4)\DST CLIENT\bin\Debug\DST CLIENT.pdb
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST CLIENT.exe.manifest
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST CLIENT.application
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST CLIENT.exe
+H:\新建文件夹 (4)\DST CLIENT\obj\Debug\DST CLIENT.pdb

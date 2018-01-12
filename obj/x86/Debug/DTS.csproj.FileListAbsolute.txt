@@ -1,0 +1,4 @@
+H:\新建文件夹 (4)\DST CLIENT\bin\x86\Debug\DST CLIENT.exe.config
+H:\新建文件夹 (4)\DST CLIENT\obj\x86\Debug\DST_CLIENT.Client.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\x86\Debug\DST_CLIENT.Properties.Resources.resources
+H:\新建文件夹 (4)\DST CLIENT\obj\x86\Debug\DTS.csproj.GenerateResource.Cache
